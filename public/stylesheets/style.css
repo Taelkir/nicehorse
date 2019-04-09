@@ -52,6 +52,10 @@ table {
   width: 500px;
 }
 
+p {
+	margin: auto;
+}
+
 body {
   display: flex;
   flex-direction: column;
